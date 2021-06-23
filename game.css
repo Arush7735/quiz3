@@ -1,0 +1,50 @@
+.body-background
+{
+ background-image:url("maths.jpg");
+}
+
+	.login_div1 , .login_div2
+	{
+		background: yellow;
+		padding: 20px;
+		float: none;
+		border-radius: 25px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+    color: darkviolet;
+    font-family: monospace;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: rgb(255, 255, 255);
+border-radius: 20px;
+border-top: 15px ridge #AA4465;
+padding: 25px;
+float: none;
+text-align: left;
+}
+
+label {
+font-family: monospace;
+}
+h1 {
+color: whitesmoke;
+}
+
+body {
+
+	background-color: magenta;
+}
